@@ -70,7 +70,7 @@ Here, in my profile, you can find some personal projects and other practical cha
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inguito&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
